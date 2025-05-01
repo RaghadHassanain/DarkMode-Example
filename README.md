@@ -1,12 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1710" alt="Screenshot 1446-11-04 at 1 40 10 AM" src="https://github.com/user-attachments/assets/384ca44d-8da8-4e71-b2ef-5a9d63e20fac" />
+<img width="1710" alt="Screenshot 1446-11-04 at 1 40 17 AM" src="https://github.com/user-attachments/assets/3b6dcb95-ddb2-4af9-8ae2-7df78912252f" />
